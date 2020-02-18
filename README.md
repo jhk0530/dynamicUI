@@ -5,6 +5,8 @@
 - `renderUI`
 - `tagList` or `lapply`
 
+[see also] (https://stackoverflow.com/questions/19130455/create-dynamic-number-of-input-elements-with-r-shiny)
+
 ```R
 library(shiny)
 library(shinyjs)
